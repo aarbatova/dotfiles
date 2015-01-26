@@ -1,4 +1,4 @@
-GOPATH="$HOME/.go"
+GOPATH="$HOME/go"
 
 PATH=$HOME/.bin:$GOPATH/bin:./node_modules/.bin:$HOME/.gem/bin:/usr/local/jre-1.7.0/bin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/X11R6/bin:/usr/local/bin:/usr/local/sbin:/usr/games:.
 
