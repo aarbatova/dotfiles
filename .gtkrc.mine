@@ -1,10 +1,10 @@
 style "font"
 {
-  font_name = "Cuprum 10"
+  font_name = "Droid Sans Regular 10"
 }
 widget_class "*" style "font"
-gtk-font-name = "Cuprum 10"
+gtk-font-name = "Droid Sans Regular 10"
 
-gtk-icon-theme-name = "evolvere"
+gtk-icon-theme-name = "Numix-Circle"
 gtk-key-theme-name = "Default"
 

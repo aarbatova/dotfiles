@@ -3,6 +3,5 @@ source $HOME/.vim/vimrc.base
 "let g:lightline = { 'colorscheme': 'solarized' }
 
 set background=dark
-colorscheme jellybeans
+colorscheme vizuki
 
-set guifont=Consolas\ 10

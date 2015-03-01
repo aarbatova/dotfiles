@@ -1,6 +1,6 @@
-GOPATH="$HOME/.go"
+GOPATH="$HOME/go"
 
-PATH=$HOME/.bin:$GOPATH/bin:./node_modules/.bin:$HOME/.gem/bin:/usr/local/jre-1.7.0/bin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/X11R6/bin:/usr/local/bin:/usr/local/sbin:/usr/games:.
+PATH=$HOME/.bin:$GOPATH/bin:./node_modules/.bin:$HOME/.gem/bin:/usr/local/heroku/bin:$PATH
 
 PKG_PATH="http://mirror.internode.on.net/pub/OpenBSD/snapshots/packages/amd64/"
 
@@ -24,3 +24,4 @@ alias cl="clear"
 
 export GEM_HOME="$HOME/.gem"
 export GEM_ROOT="$HOME/.gem"
+export QMAKE=/usr/bin/qmake-qt4
